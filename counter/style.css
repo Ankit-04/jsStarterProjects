@@ -1,0 +1,31 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    display: block;
+    text-align: center;
+    background-color: #FA7268;
+    padding-left: 25vw;
+    padding-top: 3vh;
+    color: #FA7268;
+}
+.container{
+    text-align: center;
+    width: 50vw;
+    height:80vh;
+    background-color: #6ac3cd;
+}
+h1{
+    font-size: 3em;
+}
+p{
+    font-size: 5em;
+}
+button{
+    width: 10vw;
+    height: 5vh;
+    background-color: #FA7268;
+    font-size: 1em;
+    color: #6ac3cd;
+    border-radius: 40px;
+}
