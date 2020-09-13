@@ -1,0 +1,15 @@
+body{
+    padding-top: 35vh;
+    display: block;
+}
+.center{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#click{
+    width: 8em;
+    height: 3em;
+    background:black;
+    color: white;
+}
