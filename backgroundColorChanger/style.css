@@ -1,0 +1,14 @@
+body{
+    display: block;
+    background-color: green;
+}
+.but{
+    text-align: center;
+}
+#click{
+    margin-top: 48vh;
+    width: 8em;
+    height: 3em;
+    background:black;
+    color: white;
+}
