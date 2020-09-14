@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>number guessing game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <p id="title">Number Guess</p>
+        <p id="description">Welcome to the number guessing game.<br> Your goal is to guess the secreat number from 1 to 100 with only 10 guesses.</p>
+        <input id="guess" type="number" placeholder="enter you guess here"><br>
+        <button type="submit" onclick="main()">submit</button>
+        <p id="guessesLeft">guesses left: 10</p>
+        <p id="hint">I'll tell you if your last guess is too high or too low</p>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
