@@ -18,3 +18,7 @@ input{
     height: 5vh;
     text-align: center;
 }
+#newGame{
+    display: none;
+
+}
